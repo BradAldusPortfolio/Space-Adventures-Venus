@@ -18,4 +18,4 @@
 * Piskel
 * Krita
 
-## Trailer
+## Gameplay
