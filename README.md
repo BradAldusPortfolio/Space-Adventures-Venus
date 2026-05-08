@@ -9,3 +9,11 @@
 🎮 With a smoother and more streamlined user interface, every moment feels more immersive, responsive, and action-packed than ever before.
 
 ✨ Get ready to push your platforming skills to the limit — the adventure on Venus awaits!
+
+## Softwares
+
+* Unreal Engine
+* Piskel
+* Krita
+
+## Trailer
